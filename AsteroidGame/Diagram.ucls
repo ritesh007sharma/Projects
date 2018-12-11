@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <package id="1" language="java" name="sounds" project="PS11_LIU_QI" file="/PS11_LIU_QI/src/sounds" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="52" width="114" x="932" y="263"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="2" language="java" name="asteroids.game.Controller" project="PS11_LIU_QI" 
+    file="/PS11_LIU_QI/src/asteroids/game/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="461" width="226" x="314" y="1573"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="asteroids.game.Screen" project="PS11_LIU_QI" 
+    file="/PS11_LIU_QI/src/asteroids/game/Screen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="137" width="196" x="76" y="1270"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="asteroids.participants.Ship" project="PS11_LIU_QI" 
+    file="/PS11_LIU_QI/src/asteroids/participants/Ship.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="263" width="204" x="354" y="1270"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="asteroids.game.Display" project="PS11_LIU_QI" 
+    file="/PS11_LIU_QI/src/asteroids/game/Display.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="147" x="146" y="589"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="asteroids.game.Constants" project="PS11_LIU_QI" 
+    file="/PS11_LIU_QI/src/asteroids/game/Constants.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="623" width="275" x="26" y="-74"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="asteroids.participants.Mine" project="PS11_LIU_QI" 
+    file="/PS11_LIU_QI/src/asteroids/participants/Mine.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="155" width="184" x="598" y="1270"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="asteroids.game.Participant" project="PS11_LIU_QI" 
+    file="/PS11_LIU_QI/src/asteroids/game/Participant.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="641" width="204" x="598" y="589"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="asteroids.game.ParticipantCountdownTimer" project="PS11_LIU_QI" 
+    file="/PS11_LIU_QI/src/asteroids/game/ParticipantCountdownTimer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="155" width="293" x="786" y="-74"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="10" language="java" name="asteroids.destroyers.ShipDestroyer" project="PS11_LIU_QI" 
+    file="/PS11_LIU_QI/src/asteroids/destroyers/ShipDestroyer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="65" width="120" x="822" y="1573"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="11" language="java" name="asteroids.game.Asteroids" project="PS11_LIU_QI" 
+    file="/PS11_LIU_QI/src/asteroids/game/Asteroids.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="139" x="341" y="-74"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="asteroids.participants.Asteroid" project="PS11_LIU_QI" 
+    file="/PS11_LIU_QI/src/asteroids/participants/Asteroid.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="191" width="257" x="822" y="1270"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="13" language="java" name="asteroids.destroyers.AsteroidDestroyer" project="PS11_LIU_QI" 
+    file="/PS11_LIU_QI/src/asteroids/destroyers/AsteroidDestroyer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="65" width="147" x="580" y="1573"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="14" language="java" name="asteroids.game.ParticipantState" project="PS11_LIU_QI" 
+    file="/PS11_LIU_QI/src/asteroids/game/ParticipantState.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="209" width="226" x="520" y="-74"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="15">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="16" name="screen"/>      
+      <multiplicity id="17" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="18">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="13"/>  
+  </realization>  
+  <association id="19">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="20" name="ship"/>      
+      <multiplicity id="21" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="22">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="23" name="pendingAdds">        
+        <position height="19" width="79" x="659" y="533"/>      
+      </attribute>      
+      <multiplicity id="24" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="25">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="26">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="27" name="controller"/>      
+      <multiplicity id="28" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="29">    
+    <bendpoint x="302" y="1270"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="30" name="display"/>      
+      <multiplicity id="31" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="32">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="33" name="controller"/>      
+      <multiplicity id="34" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="35">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="36" name="participants">        
+        <position height="19" width="70" x="518" y="570"/>      
+      </attribute>      
+      <multiplicity id="37" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="38">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <realization id="39">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="13"/>  
+  </realization>  
+  <association id="40">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="41" name="controller"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="44" name="participant"/>      
+      <multiplicity id="45" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="46">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <generalization id="47">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="48">    
+    <bendpoint x="323" y="1270"/>    
+    <bendpoint x="323" y="589"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="49" name="pstate"/>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="51">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="52" name="controller"/>      
+      <multiplicity id="53" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
